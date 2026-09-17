@@ -2,7 +2,7 @@ import os
 import telebot
 import sqlite3
 
-API_KEY = '8904413896:AAGiVabrOlVFL0XO4C3H_Z1aWp9n9hULfHc'
+API_KEY = '8740278653:AAHDTBKggYUTjE9rwTZS6ppLG99v4nbqZQk'
 bot = telebot.TeleBot(API_KEY)
 
 #--Database Setup--
